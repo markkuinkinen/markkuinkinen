@@ -3,7 +3,7 @@
 
    <img src="https://github.com/user-attachments/assets/a00d92f7-1f0e-40c8-b046-e83ee089a03a" width="150"/>
 
-   G'Day!
+  # G'Day!
 
   I'm an engineering student studying game develompent
   
@@ -24,6 +24,9 @@
 </div>
 
 <div id="badges" align="center"> 
+ <div>
+  <br>
+</div>
 
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markkuinkinen&layout=compact)
