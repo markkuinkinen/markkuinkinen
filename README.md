@@ -16,10 +16,10 @@
 
 <div id="badges" align="center"> 
    <a href="https://markkuinkinen.itch.io/">
-     <img src="https://img.shields.io/badge/Itch.io-red?style=for-the-badge&logo=Itch.io&logoColor=white&link=https%3A%2F%2Fkarinka1901.itch.io%2F" alt="Itch Badge"/>
+     <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch Badge"/>
    </a>
   <a href="https://www.linkedin.com/in/markku-inkinen/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkarin-domagalska-a137532aa%2F" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
